@@ -18,5 +18,5 @@ else:
 
 print("Minimum =", min(numbers))
 print("Maximum =", max(numbers))
-print("Mean    =", sum(numbers) / n)
-print("Median  =", median)
+print("Mean =", sum(numbers) / n)
+print("Median =", median)
